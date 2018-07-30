@@ -2,10 +2,5 @@
 
 点击进入我的主页 [editor on GitHub](https://github.com/yiTian66/yiTian66.github.io/edit/master/index.md) 
 
-
-
-
-
-
-#扫码领红包，余额宝那个才是大红包
-![Image](https://wxxcxxx.top/2837.jpg)
+ ## <p align="center">扫码领红包，余额宝那个才是大红包</p>
+## ![Image](https://wxxcxxx.top/2837.jpg)
