@@ -1,7 +1,7 @@
 ## 欢迎来到依天的github
 
-点击进入我的主页 [editor on GitHub](https://github.com/yiTian66) 
-点击进入我博客 [editor on GitHub](https://blog.csdn.net/yitian_66) 
+#### 点击进入我的主页 [依天的github](https://github.com/yiTian66) 
+#### 点击进入我博客 [依天的博客](https://blog.csdn.net/yitian_66) 
 
 
 
